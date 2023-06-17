@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahender</h1>
 <h3 align="center">A Tech Geek and Coder</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+<img align="right" alt="coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwimsKSYv8r_AhUKKrcAHSWWBpAQMygBegUIARCRAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&docid=yw3WajrVF6gxGM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwimsKSYv8r_AhUKKrcAHSWWBpAQMygBegUIARCRAg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-mahendra&label=Profile%20views&color=0e75b6&style=flat" alt="leo-mahendra" /> </p>
 
