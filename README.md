@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Python, Django and Full Stack Web Dev**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
