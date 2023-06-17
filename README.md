@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahender</h1>
 <h3 align="center">A Tech Geek and Coder</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47utfh08lzowdyuoa3z1hw4i7wvmzcpmix0bjqihs6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-mahendra&label=Profile%20views&color=0e75b6&style=flat" alt="leo-mahendra" /> </p>
 
 - 🌱 I’m currently learning **Frameworks and courses**
 
