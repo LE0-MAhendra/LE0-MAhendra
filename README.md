@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/leo-mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahender6244" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/leo-mahendra" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQHrGHOW1Fwhgg/profile-displayphoto-shrink_800_800/0/1684063225152?e=1696464000&v=beta&t=DUi51jYVPR_rfHxMt0X9OG8m0SSDRmsgpANnC2e--zk" alt="LeoMahendra" height="30" width="40" /></a>
 <a href="https://instagram.com/leo__mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo__mahendra" height="30" width="40" /></a>
 </p>
 
